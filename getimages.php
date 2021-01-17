@@ -1,4 +1,6 @@
 <?php
+$var  =00000;
+$var  sss=00000;
 
 $curl = curl_init();
 $searching_string = "movies 2020";
